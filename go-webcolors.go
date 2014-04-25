@@ -1,7 +1,6 @@
-package main
+package webcolors
 
 import (
-    //"fmt"
     "math"
     "regexp"
     "strings"
